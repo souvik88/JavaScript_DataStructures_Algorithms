@@ -1,3 +1,5 @@
+// Andrei's Udemy course: DS and Algo in Javascript
+
 // What is the Big O of the below function? (Hint, you may want to go line by line)
 function funChallenge(input) {
     let a = 10; // O(1)
