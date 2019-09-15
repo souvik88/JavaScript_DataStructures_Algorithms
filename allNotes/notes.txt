@@ -1,4 +1,5 @@
-Follow up math topics for DS and Algo. These are the following topics I need to check on YouTube and Google :-
+Follow up math topics for DS and Algo. These are the following topics I need to check on YouTube and 
+Google :-
 a) linear equation in one variable and two variable
 
 b) basic algebra
@@ -12,11 +13,15 @@ Follow up Big O Rule 2 video
 
 Coding skills tips :-
 
-1) Variable naming rule: Pay attention to naming variables properly. Please make sure, the names you choose for variables, must clearly and descriptively represent the purpose of its use, so that whoever is reading your code, he should be able to understand the purpose of that variable without much effort.
+1) Variable naming rule: Pay attention to naming variables properly. Please make sure, 
+the names you choose for variables, must clearly and descriptively represent the purpose 
+of its use, so that whoever is reading your code, he should be able to understand the purpose 
+of that variable without much effort.
 
 2) Abstraction: Separate logically independent chunks of code into their own individual methods.
 
-3) Documentation: Commenting codes gives a clear picture of what is going on in the code. It keeps you in the loop. This is especially helpful when the code becomes too complicated.
+3) Documentation: Commenting codes gives a clear picture of what is going on in the code. 
+It keeps you in the loop. This is especially helpful when the code becomes too complicated.
 
 4) Idiomatic coding.
 
@@ -28,7 +33,8 @@ Problem Solving Ability :-
 
 1) Eliminating ambiguity.
 
-2) Discovering the problem, do not rush into coding without clearly understanding what solution the problem is demanding.
+2) Discovering the problem, do not rush into coding without clearly understanding what 
+solution the problem is demanding.
 
 3) Discuss tradeoffs while exploring different solutions.
 

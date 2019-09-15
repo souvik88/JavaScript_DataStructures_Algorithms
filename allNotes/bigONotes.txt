@@ -1,1 +1,0 @@
-In bigO notation we use the size of the input, which we call "n".
