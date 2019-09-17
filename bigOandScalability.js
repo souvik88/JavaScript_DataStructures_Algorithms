@@ -1,3 +1,5 @@
+// Andrei's Udemy course: DS and Algo in Javascript
+
 const nemo = ['nemo'];
 const {performance} = require('perf_hooks');
 function findNemo(array) {

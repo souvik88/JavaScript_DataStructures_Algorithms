@@ -1,3 +1,5 @@
+// Andrei's Udemy course: DS and Algo in Javascript
+
 class MyArray {
     constructor() {
         this.length = 0;
