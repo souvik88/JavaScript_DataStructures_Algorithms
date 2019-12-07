@@ -9,5 +9,9 @@ function reverse(str) {
     
     const backwards = [];
     const totalItems = str.length - 1;
-    for (let i = totalItems)
+    for (let i = totalItems; i >= 0; i--) {
+        backwards.push(str[i]);
+    }
+    console.log(backwards);
+    return backwards.join('');
 }
