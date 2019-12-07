@@ -39,7 +39,7 @@ function reverse2(str) {
         console.log(str.split('').reverse().join(''));
     }
 }
-reverse2('This is reverse 2');
+reverse2('This is reverse 2, hello , hi');
 
 
 
