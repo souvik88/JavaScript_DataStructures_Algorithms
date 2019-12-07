@@ -26,7 +26,7 @@ function reverse(str) {
     for (let i = totalItems; i >= 0; i--) { // loop through the array in reverse
         backwards.push(str[i]);
     }
-    return backwards.join('');
+    console.log(backwards.join(''));
 }
 
 reverse('Hello, how are you?');
