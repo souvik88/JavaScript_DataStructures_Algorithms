@@ -28,8 +28,17 @@ function reverse(str) {
     }
     console.log(backwards.join(''));
 }
-
 reverse('Hello, how are you?');
+
+function reverse2(str) {
+    if (!str || str.length < 1 || typeof str !== 'string') {
+        return 'not a correct input, try again';
+    }
+    console.log( str.split('').reverse().join(''));
+}
+reverse2('Hello, how are you?');
+
+
 
 
 
