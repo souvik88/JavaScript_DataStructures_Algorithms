@@ -3,4 +3,5 @@
 
 function reverse(str) {
     // check input
+    if (!str || str.length || )
 }
