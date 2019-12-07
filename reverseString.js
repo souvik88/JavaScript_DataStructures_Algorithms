@@ -3,7 +3,7 @@
 
 function reverse(str) {
     // check input
-    if (!str || str.length < 1 || typeof str !== 'string') {
+    if (!str || str.length < 2 || typeof str !== 'string') {
         return 'That is not correct. Invalid entry';
     }
     
@@ -12,6 +12,8 @@ function reverse(str) {
     for (let i = totalItems; i >= 0; i--) {
         backwards.push(str[i]);
     }
-    console.log(backwards);
-    return backwards.join('');
+    //console.log(backwards);
+    return backwards.join(' ');
 }
+
+reverse('Hi! My name is Souvik.');
