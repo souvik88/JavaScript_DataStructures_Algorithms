@@ -31,12 +31,14 @@ function reverse(str) {
 reverse('Hello, how are you?');
 
 function reverse2(str) {
-    if (!str || str.length < 1 || typeof str !== 'string') {
-        return 'not a correct input, try again';
+    if (!str || str.length < 5 || typeof str !== 'string') {
+        console.log('not a correct input, try again');
+    } else {
+        console.log(str.split('').reverse().join(''));
     }
-    console.log( str.split('').reverse().join(''));
+
 }
-reverse2('Hello, how are you?');
+reverse2(3);
 
 
 
