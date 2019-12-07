@@ -1,6 +1,6 @@
 // create a function that reverses a string
 // reverse this string --> 'Hi, my name is Souvik'
 
-function reverse() {
-    
+function reverse(str) {
+    // check input
 }
